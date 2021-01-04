@@ -60,7 +60,6 @@ PySocks==1.7.1
 python-dateutil==2.8.1
 python-pptx==0.6.18
 pytz==2020.4
-pywin32==300
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==20.0.0
